@@ -1,0 +1,25 @@
+# Rhino
+newmtl krater_Krater_baseFromRhino_u2_v1
+Ka 1.0000 1.0000 1.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd krater_Krater_baseFromRhino_u2_v1.jpg
+newmtl krater_Krater_baseFromRhino_u1_v1
+Ka 1.0000 1.0000 1.0000
+Kd 1.0000 1.0000 1.0000
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd krater_Krater_baseFromRhino_u1_v1.jpg
+newmtl defaultMat
+Ka 0.0000 0.0000 0.0000
+Kd 0.9804 0.9804 0.9804
+Ks 1.0000 1.0000 1.0000
+Tf 0.0000 0.0000 0.0000
+d 1.0000
+Ns 0.0000
+map_Kd Krater_BU_RCVertexColorsPolygroups1_KRATER-ONLY_1_diffuse_u0_v0.jpg
